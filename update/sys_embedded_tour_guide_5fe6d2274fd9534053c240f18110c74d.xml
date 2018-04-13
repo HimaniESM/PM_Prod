@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_embedded_tour_guide">
+    <sys_embedded_tour_guide action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <autolaunch_order>0</autolaunch_order>
+        <context>problem</context>
+        <description/>
+        <name>Problem Management</name>
+        <options/>
+        <roles/>
+        <sys_class_name>sys_embedded_tour_guide</sys_class_name>
+        <sys_created_by>Suganya_Nagarajan</sys_created_by>
+        <sys_created_on>2018-04-12 09:41:38</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>5fe6d2274fd9534053c240f18110c74d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Problem Management</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="ESM IT Problem Management" source="x_infte_esm_it_pro">6a7680d74f34530053c240f18110c7b6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ESM IT Problem Management">6a7680d74f34530053c240f18110c7b6</sys_scope>
+        <sys_update_name>sys_embedded_tour_guide_5fe6d2274fd9534053c240f18110c74d</sys_update_name>
+        <sys_updated_by>Suganya_Nagarajan</sys_updated_by>
+        <sys_updated_on>2018-04-12 09:41:38</sys_updated_on>
+    </sys_embedded_tour_guide>
+</record_update>
