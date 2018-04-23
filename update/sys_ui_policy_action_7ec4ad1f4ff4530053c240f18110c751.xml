@@ -17,7 +17,7 @@
         <sys_updated_by>Suganya_Nagarajan</sys_updated_by>
         <sys_updated_on>2018-03-17 16:53:01</sys_updated_on>
         <table>problem</table>
-        <ui_policy display_value="Display RCA">8c74e91f4ff4530053c240f18110c754</ui_policy>
+        <ui_policy display_value="Display RCA (ESM)">8c74e91f4ff4530053c240f18110c754</ui_policy>
         <visible>true</visible>
     </sys_ui_policy_action>
 </record_update>

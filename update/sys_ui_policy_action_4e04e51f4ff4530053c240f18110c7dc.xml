@@ -17,7 +17,7 @@
         <sys_updated_by>Suganya_Nagarajan</sys_updated_by>
         <sys_updated_on>2018-03-17 14:49:38</sys_updated_on>
         <table>problem</table>
-        <ui_policy display_value="Hide Status Reason ">a4c3651f4ff4530053c240f18110c74c</ui_policy>
+        <ui_policy display_value="Hide Status Reason (ESM)">a4c3651f4ff4530053c240f18110c74c</ui_policy>
         <visible>false</visible>
     </sys_ui_policy_action>
 </record_update>
