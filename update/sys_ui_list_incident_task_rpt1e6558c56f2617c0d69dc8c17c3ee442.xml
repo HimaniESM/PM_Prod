@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_list parent="" relationship="" sys_domain="global" table="incident_task" version="2" view="RPT1e6558c56f2617c0d69dc8c17c3ee442">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>number</element>
+            <list_id display_value="incident_task" element="NULL" name="incident_task" parent="NULL" relationship="NULL" sys_domain="global" view="926514096f2617c0d69dc8c17c3ee4ee">5e6514096f2617c0d69dc8c17c3ee4ee</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>Amit Kumar</sys_created_by>
+            <sys_created_on>2018-06-05 09:09:27</sys_created_on>
+            <sys_id>d26514096f2617c0d69dc8c17c3ee4ef</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Amit Kumar</sys_updated_by>
+            <sys_updated_on>2018-06-05 09:09:27</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>priority</element>
+            <list_id display_value="incident_task" element="NULL" name="incident_task" parent="NULL" relationship="NULL" sys_domain="global" view="926514096f2617c0d69dc8c17c3ee4ee">5e6514096f2617c0d69dc8c17c3ee4ee</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>1</position>
+            <sum>false</sum>
+            <sys_created_by>Amit Kumar</sys_created_by>
+            <sys_created_on>2018-06-05 09:09:27</sys_created_on>
+            <sys_id>566514096f2617c0d69dc8c17c3ee4ef</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Amit Kumar</sys_updated_by>
+            <sys_updated_on>2018-06-05 09:09:27</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>state</element>
+            <list_id display_value="incident_task" element="NULL" name="incident_task" parent="NULL" relationship="NULL" sys_domain="global" view="926514096f2617c0d69dc8c17c3ee4ee">5e6514096f2617c0d69dc8c17c3ee4ee</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>2</position>
+            <sum>false</sum>
+            <sys_created_by>Amit Kumar</sys_created_by>
+            <sys_created_on>2018-06-05 09:09:27</sys_created_on>
+            <sys_id>d66514096f2617c0d69dc8c17c3ee4ef</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Amit Kumar</sys_updated_by>
+            <sys_updated_on>2018-06-05 09:09:27</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>assigned_to</element>
+            <list_id display_value="incident_task" element="NULL" name="incident_task" parent="NULL" relationship="NULL" sys_domain="global" view="926514096f2617c0d69dc8c17c3ee4ee">5e6514096f2617c0d69dc8c17c3ee4ee</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>3</position>
+            <sum>false</sum>
+            <sys_created_by>Amit Kumar</sys_created_by>
+            <sys_created_on>2018-06-05 09:09:27</sys_created_on>
+            <sys_id>5a6514096f2617c0d69dc8c17c3ee4ef</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Amit Kumar</sys_updated_by>
+            <sys_updated_on>2018-06-05 09:09:27</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>short_description</element>
+            <list_id display_value="incident_task" element="NULL" name="incident_task" parent="NULL" relationship="NULL" sys_domain="global" view="926514096f2617c0d69dc8c17c3ee4ee">5e6514096f2617c0d69dc8c17c3ee4ee</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>4</position>
+            <sum>false</sum>
+            <sys_created_by>Amit Kumar</sys_created_by>
+            <sys_created_on>2018-06-05 09:09:27</sys_created_on>
+            <sys_id>da6514096f2617c0d69dc8c17c3ee4ef</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Amit Kumar</sys_updated_by>
+            <sys_updated_on>2018-06-05 09:09:27</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_class_name</element>
+            <list_id display_value="incident_task" element="NULL" name="incident_task" parent="NULL" relationship="NULL" sys_domain="global" view="926514096f2617c0d69dc8c17c3ee4ee">5e6514096f2617c0d69dc8c17c3ee4ee</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>5</position>
+            <sum>false</sum>
+            <sys_created_by>Amit Kumar</sys_created_by>
+            <sys_created_on>2018-06-05 09:09:27</sys_created_on>
+            <sys_id>5e6514096f2617c0d69dc8c17c3ee4ef</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Amit Kumar</sys_updated_by>
+            <sys_updated_on>2018-06-05 09:09:27</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>incident_task</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>Amit Kumar</sys_created_by>
+            <sys_created_on>2018-06-05 09:09:27</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5e6514096f2617c0d69dc8c17c3ee4ee</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>incident_task</sys_name>
+            <sys_package display_value="ESM IT Problem Management" source="x_infte_esm_it_pro">6a7680d74f34530053c240f18110c7b6</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="ESM IT Problem Management">6a7680d74f34530053c240f18110c7b6</sys_scope>
+            <sys_update_name>sys_ui_list_incident_task_RPT1e6558c56f2617c0d69dc8c17c3ee442</sys_update_name>
+            <sys_updated_by>Amit Kumar</sys_updated_by>
+            <sys_updated_on>2018-06-05 09:09:27</sys_updated_on>
+            <sys_user/>
+            <view display_value="Rpt1e6558c56f2617c0d69dc8c17c3ee442" name="RPT1e6558c56f2617c0d69dc8c17c3ee442">926514096f2617c0d69dc8c17c3ee4ee</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+</record_update>

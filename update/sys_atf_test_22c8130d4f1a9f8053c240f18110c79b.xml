@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_atf_test">
+    <sys_atf_test action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <description>To test the script include</description>
+        <name>script_include_demo</name>
+        <remember/>
+        <sys_class_name>sys_atf_test</sys_class_name>
+        <sys_created_by>Amit Kumar</sys_created_by>
+        <sys_created_on>2018-05-24 13:07:46</sys_created_on>
+        <sys_id>22c8130d4f1a9f8053c240f18110c79b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>script_include_demo</sys_name>
+        <sys_package display_value="ESM IT Problem Management" source="x_infte_esm_it_pro">6a7680d74f34530053c240f18110c7b6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ESM IT Problem Management">6a7680d74f34530053c240f18110c7b6</sys_scope>
+        <sys_update_name>sys_atf_test_22c8130d4f1a9f8053c240f18110c79b</sys_update_name>
+        <sys_updated_by>Amit Kumar</sys_updated_by>
+        <sys_updated_on>2018-05-24 13:07:46</sys_updated_on>
+    </sys_atf_test>
+    <sys_variable_value action="delete_multiple" query="document_key=22c8130d4f1a9f8053c240f18110c79b"/>
+</record_update>

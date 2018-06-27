@@ -2,7 +2,7 @@
 <record_update table="sys_atf_step">
     <sys_atf_step action="INSERT_OR_UPDATE">
         <active>true</active>
-        <description>Open the 'Itsm_Pm' view of the 'Problem' form with id '{{Step 9: Submit a Form.Record}}'</description>
+        <description>Open the 'ItilPM' view of the 'Problem' form with id '{{Step 9: Submit a Form.Record}}'</description>
         <display_name>Open an Existing Record</display_name>
         <inputs/>
         <inputs/>
@@ -12,14 +12,14 @@
         <sys_created_by>Amit_Kumar</sys_created_by>
         <sys_created_on>2018-03-20 04:48:04</sys_created_on>
         <sys_id>8727fec04f41d30053c240f18110c775</sys_id>
-        <sys_mod_count>6</sys_mod_count>
+        <sys_mod_count>13</sys_mod_count>
         <sys_name>Open an Existing Record</sys_name>
         <sys_package display_value="ESM IT Problem Management" source="x_infte_esm_it_pro">6a7680d74f34530053c240f18110c7b6</sys_package>
         <sys_policy/>
         <sys_scope display_value="ESM IT Problem Management">6a7680d74f34530053c240f18110c7b6</sys_scope>
         <sys_update_name>sys_atf_step_8727fec04f41d30053c240f18110c775</sys_update_name>
-        <sys_updated_by>Amit_Kumar</sys_updated_by>
-        <sys_updated_on>2018-03-20 04:49:13</sys_updated_on>
+        <sys_updated_by>Amit Kumar</sys_updated_by>
+        <sys_updated_on>2018-06-12 08:30:29</sys_updated_on>
         <table>problem</table>
         <test display_value="Problem Management-3">f62736c04f41d30053c240f18110c75c</test>
         <timeout/>
@@ -61,10 +61,10 @@
         <sys_created_by>Amit_Kumar</sys_created_by>
         <sys_created_on>2018-03-20 04:48:04</sys_created_on>
         <sys_id>cb27fec04f41d30053c240f18110c776</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_updated_by>Amit_Kumar</sys_updated_by>
-        <sys_updated_on>2018-03-20 04:48:04</sys_updated_on>
-        <value>Itsm_Pm</value>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_updated_by>Amit Kumar</sys_updated_by>
+        <sys_updated_on>2018-05-21 09:39:34</sys_updated_on>
+        <value>ItilPM</value>
         <variable display_value="">6e55da4e53a0220002c6435723dc34a0</variable>
     </sys_variable_value>
     <sys_element_mapping action="delete_multiple" query="id=8727fec04f41d30053c240f18110c775"/>

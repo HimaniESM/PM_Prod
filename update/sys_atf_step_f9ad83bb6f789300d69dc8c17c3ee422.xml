@@ -8,20 +8,20 @@ and Close notes = Solved Permanently
 and Additional comments = Changing atate to closed/resolved</description>
         <display_name>Set Field Values</display_name>
         <inputs/>
-        <order>22</order>
+        <order>27</order>
         <step_config display_value="Set Field Values">fcae4a935332120028bc29cac2dc340e</step_config>
         <sys_class_name>sys_atf_step</sys_class_name>
         <sys_created_by>Amit_Kumar</sys_created_by>
         <sys_created_on>2018-03-19 11:48:39</sys_created_on>
         <sys_id>f9ad83bb6f789300d69dc8c17c3ee422</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>14</sys_mod_count>
         <sys_name>Set Field Values</sys_name>
         <sys_package display_value="ESM IT Problem Management" source="x_infte_esm_it_pro">6a7680d74f34530053c240f18110c7b6</sys_package>
         <sys_policy/>
         <sys_scope display_value="ESM IT Problem Management">6a7680d74f34530053c240f18110c7b6</sys_scope>
         <sys_update_name>sys_atf_step_f9ad83bb6f789300d69dc8c17c3ee422</sys_update_name>
-        <sys_updated_by>Amit_Kumar</sys_updated_by>
-        <sys_updated_on>2018-03-19 11:48:39</sys_updated_on>
+        <sys_updated_by>Amit Kumar</sys_updated_by>
+        <sys_updated_on>2018-06-21 06:27:41</sys_updated_on>
         <table>problem</table>
         <test display_value="Problem Management-1">7d3887b76f789300d69dc8c17c3ee41f</test>
         <timeout/>

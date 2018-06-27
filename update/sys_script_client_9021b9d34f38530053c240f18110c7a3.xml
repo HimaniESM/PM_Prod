@@ -17,6 +17,8 @@
 	//When state is not closed/Resolved hiding the closure info section
 	if(newValue!= 4){
 		g_form.setSectionDisplay('closure_information',false);
+		g_form.setMandatory('x_infte_esm_it_pro_vendor_name',false);
+		g_form.setMandatory('x_infte_esm_it_pro_vendor_ticket_number',false);
 	}else{
 		g_form.setSectionDisplay('closure_information',true);
 	}
@@ -36,6 +38,8 @@
 	}
 	
 	
+	
+	
 }]]></script>
         <sys_class_name>sys_script_client</sys_class_name>
         <sys_created_by>Suganya_Nagarajan</sys_created_by>
@@ -43,15 +47,15 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>9021b9d34f38530053c240f18110c7a3</sys_id>
-        <sys_mod_count>5</sys_mod_count>
+        <sys_mod_count>6</sys_mod_count>
         <sys_name>Esm_OnChange_HideClosureInfo</sys_name>
         <sys_overrides/>
         <sys_package display_value="ESM IT Problem Management" source="x_infte_esm_it_pro">6a7680d74f34530053c240f18110c7b6</sys_package>
         <sys_policy/>
         <sys_scope display_value="ESM IT Problem Management">6a7680d74f34530053c240f18110c7b6</sys_scope>
         <sys_update_name>sys_script_client_9021b9d34f38530053c240f18110c7a3</sys_update_name>
-        <sys_updated_by>Kevin_Domadia</sys_updated_by>
-        <sys_updated_on>2018-04-23 06:46:00</sys_updated_on>
+        <sys_updated_by>Suganya_Nagarajan</sys_updated_by>
+        <sys_updated_on>2018-06-21 13:46:02</sys_updated_on>
         <table>problem</table>
         <type>onChange</type>
         <ui_type>10</ui_type>

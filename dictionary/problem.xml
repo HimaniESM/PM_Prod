@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <database>
-    <element attributes="live_feed=true" audit="true" defaultsort="-1" extends="task" label="Problem" max_length="40" name="problem" sizeclass="118" text_index="true" type="collection">
+    <element attributes="live_feed=true" audit="true" defaultsort="-1" extends="task" label="Problem" max_length="40" name="problem" sizeclass="149" text_index="true" type="collection">
         <element choice="1" label="Category" max_length="100" name="x_infte_esm_it_pro_category" type="choice">
             <choice>
                 <element label="Request" sequence="0" value="request"/>
@@ -65,5 +65,7 @@
             </choice>
         </element>
         <element label="Task Validation" max_length="40" name="x_infte_esm_it_pro_task_validation" type="boolean"/>
+        <element dynamic_default_value="2019-06-20 22:23:42" label="Vendor Name" max_length="32" name="x_infte_esm_it_pro_vendor_name" reference="core_company" reference_qual="vendor=true^EQ" reference_qual_condition="vendor=true^EQ" type="reference"/>
+        <element dynamic_default_value="2019-06-20 22:24:44" label="Vendor Ticket Number" max_length="40" name="x_infte_esm_it_pro_vendor_ticket_number" type="string"/>
     </element>
 </database>
