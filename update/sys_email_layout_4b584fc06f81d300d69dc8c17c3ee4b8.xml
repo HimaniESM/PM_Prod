@@ -14,7 +14,7 @@
 <table width="725" height="9" style="background-color: #a3a2a2; height: 21px;">
 <tbody>
 <tr>
-<td>${mail_script:esm_subject}</td>
+<td>${mail_script:esm_subject_PM}</td>
 </tr>
 </tbody>
 </table>
@@ -50,13 +50,13 @@
         <sys_created_by>Manjeet_kumar</sys_created_by>
         <sys_created_on>2018-03-20 06:03:10</sys_created_on>
         <sys_id>4b584fc06f81d300d69dc8c17c3ee4b8</sys_id>
-        <sys_mod_count>3</sys_mod_count>
+        <sys_mod_count>6</sys_mod_count>
         <sys_name>ESM RCA Email Layout</sys_name>
         <sys_package display_value="ESM IT Problem Management" source="x_infte_esm_it_pro">6a7680d74f34530053c240f18110c7b6</sys_package>
         <sys_policy/>
         <sys_scope display_value="ESM IT Problem Management">6a7680d74f34530053c240f18110c7b6</sys_scope>
         <sys_update_name>sys_email_layout_4b584fc06f81d300d69dc8c17c3ee4b8</sys_update_name>
         <sys_updated_by>Manjeet_kumar</sys_updated_by>
-        <sys_updated_on>2018-03-20 06:07:31</sys_updated_on>
+        <sys_updated_on>2018-06-29 08:31:19</sys_updated_on>
     </sys_email_layout>
 </record_update>

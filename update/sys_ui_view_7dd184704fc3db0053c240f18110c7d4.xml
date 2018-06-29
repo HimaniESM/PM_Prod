@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_ui_view">
+    <sys_ui_view action="INSERT_OR_UPDATE">
+        <group/>
+        <hidden>false</hidden>
+        <name>Itsm_Pm</name>
+        <roles/>
+        <sys_class_name>sys_ui_view</sys_class_name>
+        <sys_created_by>Sumanth.Ravilla</sys_created_by>
+        <sys_created_on>2018-06-29 09:36:51</sys_created_on>
+        <sys_id>7dd184704fc3db0053c240f18110c7d4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Itsm_Pm</sys_name>
+        <sys_package display_value="ESM IT Problem Management" source="x_infte_esm_it_pro">6a7680d74f34530053c240f18110c7b6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ESM IT Problem Management">6a7680d74f34530053c240f18110c7b6</sys_scope>
+        <sys_update_name>sys_ui_view_7dd184704fc3db0053c240f18110c7d4</sys_update_name>
+        <sys_updated_by>Sumanth.Ravilla</sys_updated_by>
+        <sys_updated_on>2018-06-29 09:36:51</sys_updated_on>
+        <title>Itsm_Pm</title>
+        <user/>
+    </sys_ui_view>
+</record_update>
