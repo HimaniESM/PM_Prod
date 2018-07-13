@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>f7d1417e4f051b0053c240f18110c777</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="cmdb_ci_server">
+    <cmdb_ci_server action="INSERT_OR_UPDATE">
+        <asset display_value="Windows Server - Dell Inc. PowerEdge M710HD Blade Server">c8b1017e4f051b0053c240f18110c7e7</asset>
+        <asset_tag>Windows Server</asset_tag>
+        <assigned/>
+        <assigned_to/>
+        <assignment_group/>
+        <attributes/>
+        <can_print>false</can_print>
+        <category>Hardware</category>
+        <cd_rom>false</cd_rom>
+        <cd_speed/>
+        <change_control/>
+        <chassis_type/>
+        <checked_in/>
+        <checked_out/>
+        <classification>Production</classification>
+        <comments/>
+        <company/>
+        <correlation_id/>
+        <cost>2160</cost>
+        <cost_cc>USD</cost_cc>
+        <cost_center/>
+        <cpu_core_count/>
+        <cpu_core_thread/>
+        <cpu_count/>
+        <cpu_manufacturer/>
+        <cpu_name/>
+        <cpu_speed/>
+        <cpu_type/>
+        <default_gateway/>
+        <delivery_date/>
+        <department/>
+        <discovery_source/>
+        <disk_space/>
+        <dns_domain/>
+        <dr_backup/>
+        <due/>
+        <due_in/>
+        <fault_count>0</fault_count>
+        <firewall_status>Intranet</firewall_status>
+        <first_discovered/>
+        <floppy/>
+        <form_factor/>
+        <fqdn/>
+        <gl_account/>
+        <hardware_status>installed</hardware_status>
+        <hardware_substatus>in_use</hardware_substatus>
+        <host_name/>
+        <install_date/>
+        <install_status>1</install_status>
+        <invoice_number/>
+        <ip_address/>
+        <justification/>
+        <last_discovered/>
+        <lease_id/>
+        <location/>
+        <mac_address/>
+        <maintenance_schedule/>
+        <managed_by/>
+        <manufacturer/>
+        <model_id display_value="Dell Inc. PowerEdge M710HD Blade Server">47aa6b3f3763100044e0bfc8bcbe5d76</model_id>
+        <model_number/>
+        <monitor>false</monitor>
+        <name>PowerEdge M710HD Blade Server</name>
+        <object_id/>
+        <operational_status>1</operational_status>
+        <order_date/>
+        <os/>
+        <os_address_width/>
+        <os_domain/>
+        <os_service_pack/>
+        <os_version/>
+        <owned_by/>
+        <po_number/>
+        <purchase_date/>
+        <ram/>
+        <schedule/>
+        <serial_number/>
+        <short_description/>
+        <skip_sync>false</skip_sync>
+        <start_date/>
+        <subcategory>Computer</subcategory>
+        <support_group/>
+        <supported_by/>
+        <sys_class_name>cmdb_ci_server</sys_class_name>
+        <sys_class_path>/!!/!2/!(/!!</sys_class_path>
+        <sys_created_by>Divya_M</sys_created_by>
+        <sys_created_on>2018-03-28 09:18:53</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>f7d1417e4f051b0053c240f18110c777</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>Divya_M</sys_updated_by>
+        <sys_updated_on>2018-03-28 09:18:53</sys_updated_on>
+        <unverified>false</unverified>
+        <used_for>Production</used_for>
+        <vendor/>
+        <virtual>false</virtual>
+        <warranty_expiration/>
+    </cmdb_ci_server>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>Amit Kumar</sys_created_by>
+        <sys_created_on>2018-07-13 05:28:04</sys_created_on>
+        <sys_id>0a2f8f454f1b174053c240f18110c73f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>PowerEdge M710HD Blade Server</sys_name>
+        <sys_package display_value="ESM IT Problem Management" source="x_infte_esm_it_pro">6a7680d74f34530053c240f18110c7b6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ESM IT Problem Management">6a7680d74f34530053c240f18110c7b6</sys_scope>
+        <sys_update_name>sys_metadata_link_0a2f8f454f1b174053c240f18110c73f</sys_update_name>
+        <sys_updated_by>Amit Kumar</sys_updated_by>
+        <sys_updated_on>2018-07-13 05:28:04</sys_updated_on>
+        <tablename>cmdb_ci_server</tablename>
+    </sys_metadata_link>
+</record_update>
