@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <database>
-    <element attributes="live_feed=true" audit="true" defaultsort="-1" extends="task" label="Problem" max_length="40" name="problem" sizeclass="150" text_index="true" type="collection">
+    <element attributes="live_feed=true" audit="true" defaultsort="-1" extends="task" label="Problem" max_length="40" name="problem" sizeclass="168" text_index="true" type="collection">
         <element choice="1" label="Category" max_length="100" name="x_infte_esm_it_pro_category" type="choice">
             <choice>
                 <element label="Request" sequence="0" value="request"/>

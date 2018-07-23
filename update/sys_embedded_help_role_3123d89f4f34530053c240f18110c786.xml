@@ -2,7 +2,7 @@
 <record_update table="sys_embedded_help_role">
     <sys_embedded_help_role action="INSERT_OR_UPDATE">
         <order>1000</order>
-        <role display_value="esm_it_problem_management_global_user" name="esm_it_problem_management_global_user">ad23d89f4f34530053c240f18110c783</role>
+        <role/>
         <sys_class_name>sys_embedded_help_role</sys_class_name>
         <sys_created_by>Suganya_Nagarajan</sys_created_by>
         <sys_created_on>2018-03-17 08:56:01</sys_created_on>

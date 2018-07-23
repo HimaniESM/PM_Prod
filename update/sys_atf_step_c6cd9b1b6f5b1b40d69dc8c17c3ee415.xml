@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_atf_step">
+    <sys_atf_step action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <description>Run Server Side Validation Script</description>
+        <display_name>Run Server Side Script</display_name>
+        <inputs/>
+        <order>1</order>
+        <step_config display_value="Run Server Side Script">41de4a935332120028bc29cac2dc349a</step_config>
+        <sys_class_name>sys_atf_step</sys_class_name>
+        <sys_created_by>Amit Kumar</sys_created_by>
+        <sys_created_on>2018-07-20 06:33:29</sys_created_on>
+        <sys_id>c6cd9b1b6f5b1b40d69dc8c17c3ee415</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Run Server Side Script</sys_name>
+        <sys_package display_value="ESM IT Problem Management" source="x_infte_esm_it_pro">6a7680d74f34530053c240f18110c7b6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ESM IT Problem Management">6a7680d74f34530053c240f18110c7b6</sys_scope>
+        <sys_update_name>sys_atf_step_c6cd9b1b6f5b1b40d69dc8c17c3ee415</sys_update_name>
+        <sys_updated_by>Amit Kumar</sys_updated_by>
+        <sys_updated_on>2018-07-20 06:38:35</sys_updated_on>
+        <table/>
+        <test display_value="Esm_FetchUserDetails">876d571b6f5b1b40d69dc8c17c3ee4f4</test>
+        <timeout/>
+    </sys_atf_step>
+    <sys_variable_value action="delete_multiple" query="document_key=c6cd9b1b6f5b1b40d69dc8c17c3ee415"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_atf_step</document>
+        <document_key>c6cd9b1b6f5b1b40d69dc8c17c3ee415</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>Amit Kumar</sys_created_by>
+        <sys_created_on>2018-07-20 06:33:29</sys_created_on>
+        <sys_id>78416b9b6f5b1b40d69dc8c17c3ee42e</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_updated_by>Amit Kumar</sys_updated_by>
+        <sys_updated_on>2018-07-20 06:38:35</sys_updated_on>
+        <value>(function(outputs, steps, stepResult, assertEqual) {&#13;
+    // add test script here&#13;
+	var manager= x_infte_esm_itemde.Esm_FetchUserDetails().getUserDetails("Amit Kumar");&#13;
+	if (manager.contains("ESM_ITIL_USER"))&#13;
+		return true;&#13;
+	else&#13;
+		return false;&#13;
+	&#13;
+	var new_manager= x_infte_esm_itemde.Esm_FetchUserDetails().getManager();&#13;
+	if (new_manager!="")&#13;
+		return true;&#13;
+	else&#13;
+		return false;&#13;
+	&#13;
+	// providing sys_id of  database oracle	&#13;
+	var dbowner=x_infte_esm_itemde.Esm_FetchUserDetails().getDatabaseOwner("baec79364fc51b0053c240f18110c7ca");&#13;
+	if (dbowner=="abel.tuter")&#13;
+		return true;&#13;
+	else&#13;
+		return false;&#13;
+&#13;
+	&#13;
+   // providing sys_id ofThinkServer TD230&#13;
+	var serverowner=x_infte_esm_itemde.Esm_FetchUserDetails().getServerOwner("c80849324f451b0053c240f18110c7c7");&#13;
+	if (serverowner=="Divya_M")&#13;
+		return true;&#13;
+	else&#13;
+		return false;&#13;
+})(outputs, steps, stepResult, assertEqual);&#13;
+</value>
+        <variable display_value="">989d9e235324220002c6435723dc3484</variable>
+    </sys_variable_value>
+</record_update>
