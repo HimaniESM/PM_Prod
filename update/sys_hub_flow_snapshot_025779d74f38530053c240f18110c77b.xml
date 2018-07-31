@@ -6,6 +6,7 @@
         <label_cache>[{"name":"Created_1.current","label":"Trigger➛Problem Record","reference":"problem","reference_display":"Problem","type":"reference","base_type":"reference"}]</label_cache>
         <name>ESM_PM_PopulateAsgmntGrp</name>
         <parent_flow display_value="ESM_PM_PopulateAsgmntGrp">53f895174ff4530053c240f18110c710</parent_flow>
+        <remote_trigger_id/>
         <status>published</status>
         <sys_class_name>sys_hub_flow_snapshot</sys_class_name>
         <sys_created_by>Suganya_Nagarajan</sys_created_by>

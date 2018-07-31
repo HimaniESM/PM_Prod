@@ -15,7 +15,7 @@
         <sys_update_name>sys_atf_test_suite_test_9a885fc94f1a9f8053c240f18110c7f6</sys_update_name>
         <sys_updated_by>Amit Kumar</sys_updated_by>
         <sys_updated_on>2018-05-24 13:06:40</sys_updated_on>
-        <test display_value="Success">ca28d3c94f1a9f8053c240f18110c733</test>
+        <test display_value="">ca28d3c94f1a9f8053c240f18110c733</test>
         <test_suite display_value="Demo">7a1f62054fd69f8053c240f18110c733</test_suite>
     </sys_atf_test_suite_test>
 </record_update>

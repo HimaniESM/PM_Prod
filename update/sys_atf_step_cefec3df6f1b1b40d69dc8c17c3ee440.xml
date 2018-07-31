@@ -11,14 +11,14 @@
         <sys_created_by>Amit Kumar</sys_created_by>
         <sys_created_on>2018-07-20 05:14:01</sys_created_on>
         <sys_id>cefec3df6f1b1b40d69dc8c17c3ee440</sys_id>
-        <sys_mod_count>8</sys_mod_count>
+        <sys_mod_count>9</sys_mod_count>
         <sys_name>Run Server Side Script</sys_name>
         <sys_package display_value="ESM IT Problem Management" source="x_infte_esm_it_pro">6a7680d74f34530053c240f18110c7b6</sys_package>
         <sys_policy/>
         <sys_scope display_value="ESM IT Problem Management">6a7680d74f34530053c240f18110c7b6</sys_scope>
         <sys_update_name>sys_atf_step_cefec3df6f1b1b40d69dc8c17c3ee440</sys_update_name>
-        <sys_updated_by>Amit Kumar</sys_updated_by>
-        <sys_updated_on>2018-07-20 06:16:24</sys_updated_on>
+        <sys_updated_by>Kevin.Domadia</sys_updated_by>
+        <sys_updated_on>2018-07-24 10:37:34</sys_updated_on>
         <table/>
         <test display_value="toPopulatePrimaryOwner">d8fd4f9f6f1b1b40d69dc8c17c3ee449</test>
         <timeout/>
@@ -32,19 +32,13 @@
         <sys_created_by>Amit Kumar</sys_created_by>
         <sys_created_on>2018-07-20 05:14:01</sys_created_on>
         <sys_id>bc1f4bdf6f1b1b40d69dc8c17c3ee47f</sys_id>
-        <sys_mod_count>8</sys_mod_count>
-        <sys_updated_by>Amit Kumar</sys_updated_by>
-        <sys_updated_on>2018-07-20 06:16:24</sys_updated_on>
+        <sys_mod_count>9</sys_mod_count>
+        <sys_updated_by>Kevin.Domadia</sys_updated_by>
+        <sys_updated_on>2018-07-24 10:37:34</sys_updated_on>
         <value>(function(outputs, steps, stepResult, assertEqual) {&#13;
     // add test script here&#13;
 	var ga= x_infte_esm_itemde.toPopulatePrimaryOwner().getOwner("00b785324f451b0053c240f18110c730");&#13;
 	if (ga=="Test")&#13;
-		return true;&#13;
-	else&#13;
-		return false;&#13;
-// providing sys_id of  database oracle	&#13;
-	var dbowner=x_infte_esm_itemde.toPopulatePrimaryOwner().getDatabaseOwner("baec79364fc51b0053c240f18110c7ca");&#13;
-	if (dbowner=="abel.tuter")&#13;
 		return true;&#13;
 	else&#13;
 		return false;&#13;

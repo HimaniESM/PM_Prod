@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_atf_step">
+    <sys_atf_step action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <description>Set the values on the form as follows:
+Short description = ATF Test
+and Assignment group = Service Desk
+and Configuration item = Zoom V.92 USB Modem</description>
+        <display_name>Set Field Values</display_name>
+        <inputs/>
+        <order>4</order>
+        <step_config display_value="Set Field Values">fcae4a935332120028bc29cac2dc340e</step_config>
+        <sys_class_name>sys_atf_step</sys_class_name>
+        <sys_created_by>Amit.Kumar</sys_created_by>
+        <sys_created_on>2018-07-23 10:58:41</sys_created_on>
+        <sys_id>577ab750dbebd3402061d11c5e96193f</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name>Set Field Values</sys_name>
+        <sys_package display_value="ESM IT Problem Management" source="x_infte_esm_it_pro">6a7680d74f34530053c240f18110c7b6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ESM IT Problem Management">6a7680d74f34530053c240f18110c7b6</sys_scope>
+        <sys_update_name>sys_atf_step_577ab750dbebd3402061d11c5e96193f</sys_update_name>
+        <sys_updated_by>Amit.Kumar</sys_updated_by>
+        <sys_updated_on>2018-07-24 13:05:25</sys_updated_on>
+        <table>problem_task</table>
+        <test display_value="Problem Management-6">7ef7bfdcdbabd3402061d11c5e961972</test>
+        <timeout/>
+    </sys_atf_step>
+    <sys_variable_value action="delete_multiple" query="document_key=577ab750dbebd3402061d11c5e96193f"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_atf_step</document>
+        <document_key>577ab750dbebd3402061d11c5e96193f</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>Amit.Kumar</sys_created_by>
+        <sys_created_on>2018-07-23 10:58:41</sys_created_on>
+        <sys_id>2aba7b50dbebd3402061d11c5e961951</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>Amit.Kumar</sys_updated_by>
+        <sys_updated_on>2018-07-23 10:58:41</sys_updated_on>
+        <value>short_description=ATF Test^assignment_group=d625dccec0a8016700a222a0f7900d06^cmdb_ci=46cb6095a9fe19810129cd0c1f8fc6d2^EQ</value>
+        <variable display_value="">b3dba2465320220002c6435723dc34f0</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_atf_step</document>
+        <document_key>577ab750dbebd3402061d11c5e96193f</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>Amit.Kumar</sys_created_by>
+        <sys_created_on>2018-07-23 10:58:41</sys_created_on>
+        <sys_id>66ba7b50dbebd3402061d11c5e961951</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>Amit.Kumar</sys_updated_by>
+        <sys_updated_on>2018-07-23 10:58:41</sys_updated_on>
+        <value>problem_task</value>
+        <variable display_value="">424ca6465320220002c6435723dc34b5</variable>
+    </sys_variable_value>
+</record_update>

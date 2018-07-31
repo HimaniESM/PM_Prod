@@ -25,7 +25,7 @@
         <column>active</column>
         <compute_percent>aggregate</compute_percent>
         <content/>
-        <created_by_user display_value="Amit Kumar">27120eaa6fb01300d69dc8c17c3ee4e6</created_by_user>
+        <created_by_user display_value="Amit Kumar">7c3c23b0dba117002061d11c5e961960</created_by_user>
         <custom_chart_size>false</custom_chart_size>
         <custom_chart_title_position>false</custom_chart_title_position>
         <custom_config/>
